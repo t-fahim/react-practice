@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <Card />
-      <Card />
+      <Card user="Tamim ahmed" age="19" />
+      <Card user="Fahim ahmed" age="29" />
     </div>
   )
 
